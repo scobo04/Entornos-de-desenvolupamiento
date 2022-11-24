@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /*.jpg
+Disallow: /privat.html
+Sistemap: mapa XML de navegació
